@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Basic Application</string>
+    <string name="width_meme">Width: %1$s</string>
+    <string name="name_meme">Name: %1$s</string>
+    <string name="height_meme">Height: %1$s</string>
+    <string name="error_message">There was the following error: %1$s</string>
+    <string name="content_description">An image of a Meme</string>
+</resources>
